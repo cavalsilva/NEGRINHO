@@ -1,0 +1,103 @@
+
+menino.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+braco-ante-3
+  rotate: false
+  xy: 186, 32
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1
+braco-dir-3
+  rotate: false
+  xy: 935, 14
+  size: 85, 147
+  orig: 85, 147
+  offset: 0, 0
+  index: -1
+braco-esq-3
+  rotate: true
+  xy: 732, 138
+  size: 191, 132
+  orig: 191, 132
+  offset: 0, 0
+  index: -1
+cabeca-3
+  rotate: true
+  xy: 2, 166
+  size: 343, 395
+  orig: 343, 395
+  offset: 0, 0
+  index: -1
+canela-dir-3
+  rotate: true
+  xy: 377, 30
+  size: 119, 141
+  orig: 119, 141
+  offset: 0, 0
+  index: -1
+canela-esq-3
+  rotate: true
+  xy: 520, 31
+  size: 118, 134
+  orig: 118, 134
+  offset: 0, 0
+  index: -1
+pe-dir-3
+  rotate: true
+  xy: 656, 43
+  size: 106, 73
+  orig: 106, 73
+  offset: 0, 0
+  index: -1
+pe-esq-3
+  rotate: true
+  xy: 731, 29
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+perna-dir-3
+  rotate: false
+  xy: 866, 163
+  size: 147, 166
+  orig: 147, 166
+  offset: 0, 0
+  index: -1
+perna-esq-3
+  rotate: false
+  xy: 859, 331
+  size: 147, 178
+  orig: 147, 178
+  offset: 0, 0
+  index: -1
+quadril-3
+  rotate: false
+  xy: 2, 31
+  size: 182, 133
+  orig: 182, 133
+  offset: 0, 0
+  index: -1
+sombra-3
+  rotate: false
+  xy: 399, 387
+  size: 458, 122
+  orig: 458, 122
+  offset: 0, 0
+  index: -1
+torax-3
+  rotate: true
+  xy: 399, 151
+  size: 234, 331
+  orig: 234, 331
+  offset: 0, 0
+  index: -1
+vela-3
+  rotate: false
+  xy: 866, 2
+  size: 67, 159
+  orig: 67, 159
+  offset: 0, 0
+  index: -1

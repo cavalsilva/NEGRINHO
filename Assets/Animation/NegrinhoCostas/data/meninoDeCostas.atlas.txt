@@ -1,0 +1,103 @@
+
+meninoDeCostas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+braco-ante-dir-2
+  rotate: false
+  xy: 829, 45
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+braco-antes-esq-2
+  rotate: true
+  xy: 636, 63
+  size: 131, 100
+  orig: 131, 100
+  offset: 0, 0
+  index: -1
+braco-dir-2
+  rotate: false
+  xy: 739, 194
+  size: 70, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+braco-esq-2
+  rotate: true
+  xy: 792, 380
+  size: 92, 164
+  orig: 92, 164
+  offset: 0, 0
+  index: -1
+cabeca-2
+  rotate: false
+  xy: 2, 119
+  size: 328, 353
+  orig: 328, 353
+  offset: 0, 0
+  index: -1
+canela-dir-2
+  rotate: false
+  xy: 738, 51
+  size: 89, 141
+  orig: 89, 141
+  offset: 0, 0
+  index: -1
+canela-esq-2
+  rotate: false
+  xy: 636, 196
+  size: 101, 152
+  orig: 101, 152
+  offset: 0, 0
+  index: -1
+pe-dir-2
+  rotate: false
+  xy: 277, 11
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+pe-esq-2
+  rotate: false
+  xy: 367, 23
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+perna-dir-2
+  rotate: false
+  xy: 829, 121
+  size: 96, 122
+  orig: 96, 122
+  offset: 0, 0
+  index: -1
+perna-esq-2
+  rotate: false
+  xy: 811, 245
+  size: 118, 133
+  orig: 118, 133
+  offset: 0, 0
+  index: -1
+quadril-costas-2
+  rotate: false
+  xy: 2, 2
+  size: 273, 115
+  orig: 273, 115
+  offset: 0, 0
+  index: -1
+sombra-2
+  rotate: false
+  xy: 332, 350
+  size: 458, 122
+  orig: 458, 122
+  offset: 0, 0
+  index: -1
+torax-costas-2
+  rotate: true
+  xy: 332, 93
+  size: 255, 302
+  orig: 255, 302
+  offset: 0, 0
+  index: -1

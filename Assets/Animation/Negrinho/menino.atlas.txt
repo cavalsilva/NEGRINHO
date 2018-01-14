@@ -1,0 +1,110 @@
+
+menino.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+braco-ante-dir
+  rotate: false
+  xy: 748, 256
+  size: 128, 117
+  orig: 128, 117
+  offset: 0, 0
+  index: -1
+braco-ante-esq
+  rotate: false
+  xy: 793, 375
+  size: 185, 132
+  orig: 185, 132
+  offset: 0, 0
+  index: -1
+braco-dir
+  rotate: true
+  xy: 331, 2
+  size: 70, 139
+  orig: 70, 139
+  offset: 0, 0
+  index: -1
+braco-esq
+  rotate: true
+  xy: 587, 132
+  size: 251, 159
+  orig: 251, 159
+  offset: 0, 0
+  index: -1
+cabeca
+  rotate: false
+  xy: 2, 122
+  size: 329, 385
+  orig: 329, 385
+  offset: 0, 0
+  index: -1
+canela-esq
+  rotate: true
+  xy: 865, 154
+  size: 94, 125
+  orig: 94, 125
+  offset: 0, 0
+  index: -1
+cenela-dir
+  rotate: true
+  xy: 865, 67
+  size: 85, 150
+  orig: 85, 150
+  offset: 0, 0
+  index: -1
+pe-dir
+  rotate: true
+  xy: 980, 424
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+pe-esq
+  rotate: true
+  xy: 272, 22
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+perna-dir
+  rotate: false
+  xy: 878, 250
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+perna-esq
+  rotate: false
+  xy: 748, 139
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+quadril
+  rotate: false
+  xy: 2, 9
+  size: 268, 111
+  orig: 268, 111
+  offset: 0, 0
+  index: -1
+sombra
+  rotate: false
+  xy: 333, 385
+  size: 458, 122
+  orig: 458, 122
+  offset: 0, 0
+  index: -1
+torax
+  rotate: false
+  xy: 333, 142
+  size: 252, 241
+  orig: 252, 241
+  offset: 0, 0
+  index: -1
+vela
+  rotate: true
+  xy: 333, 74
+  size: 66, 159
+  orig: 66, 159
+  offset: 0, 0
+  index: -1
